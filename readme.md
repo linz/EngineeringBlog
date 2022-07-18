@@ -1,3 +1,1 @@
-# Readme for github / jira integration test
-
-# Adding some text here
+# Readme for EngineeringBlog
